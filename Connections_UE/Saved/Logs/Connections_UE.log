@@ -1156,3 +1156,205 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.15-19.15.40:825][633]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo', but the path contains illegal characters '.'
 [2020.06.15-19.15.40:825][633]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
 [2020.06.15-19.15.56:270][633]LogSlate: Window 'Submit Files' being destroyed
+[2020.06.15-19.16.40:783][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2020.06.15-19.16.42:749][298]Cmd: DELETE
+[2020.06.15-19.16.42:749][298]Cmd: ACTOR DELETE
+[2020.06.15-19.16.42:751][298]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.15-19.16.42:761][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.06.15-19.16.42:766][298]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.06.15-19.23.09:856][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.06.15-19.23.09:914][593]LogSavePackage: Moving '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/FirstPersonExampleMap_Auto38AE07A4D4AAE31F695FC188B890CB950.tmp' to '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.06.15-19.23.09:918][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.074
+[2020.06.15-19.23.09:918][593]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2020.06.15-19.33.06:952][963]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game_jam/homeJam_AGAIN/Connections/gem.fbx)
+[2020.06.15-19.33.07:170][963]LogFbx: Loading FBX Scene from ../../../../../../Game_jam/homeJam_AGAIN/Connections/gem.fbx
+[2020.06.15-19.33.07:177][963]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.15-19.33.07:185][963]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2020.06.15-19.33.11:221][963]LogSlate: Window 'Message' being destroyed
+[2020.06.15-19.33.11:231][963]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../../Game_jam/homeJam_AGAIN/Connections/gem.fbx'. Failed to create asset '/Game/StarterContent/Audio/gem'.
+Please see Output Log for details.
+[2020.06.15-19.33.11:231][963]LogAssetTools: Warning: Failed to import '../../../../../../Game_jam/homeJam_AGAIN/Connections/gem.fbx'. Failed to create asset '/Game/StarterContent/Audio/gem'.
+Please see Output Log for details.
+[2020.06.15-19.33.15:793][231]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.33.15:801][231]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.33.17:435][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.15-19.33.17:437][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.015
+[2020.06.15-19.34.25:492][420]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game_jam\homeJam_AGAIN\gem.fbx)
+[2020.06.15-19.34.25:503][420]LogFbx: Loading FBX Scene from E:\Game_jam\homeJam_AGAIN\gem.fbx
+[2020.06.15-19.34.25:508][420]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.15-19.34.25:511][420]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2020.06.15-19.34.28:521][420]LogSlate: Window 'Message' being destroyed
+[2020.06.15-19.34.28:531][420]Message dialog closed, result: Ok, title: Message, text: Failed to import 'E:\Game_jam\homeJam_AGAIN\gem.fbx'. Failed to create asset '/Game/_Connections_assets/meshes/gem'.
+Please see Output Log for details.
+[2020.06.15-19.34.28:531][420]LogAssetTools: Warning: Failed to import 'E:\Game_jam\homeJam_AGAIN\gem.fbx'. Failed to create asset '/Game/_Connections_assets/meshes/gem'.
+Please see Output Log for details.
+[2020.06.15-19.42.38:610][254]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.42.38:618][254]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.43.05:449][650]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game_jam\homeJam_AGAIN\gem.fbx)
+[2020.06.15-19.43.05:462][650]LogFbx: Loading FBX Scene from E:\Game_jam\homeJam_AGAIN\gem.fbx
+[2020.06.15-19.43.05:522][650]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.15-19.45.22:619][650]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.15-19.45.22:886][650]LogStaticMesh: Building static mesh gem...
+[2020.06.15-19.45.22:915][650]LogStaticMesh: Built static mesh [0.04s] /Game/_Connections_assets/meshes/gem.gem
+[2020.06.15-19.45.22:992][650]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.15-19.45.31:887][178]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.45.31:894][178]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.45.33:864][294]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.45.34:668][341]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.45.37:662][516]Cmd: DELETE
+[2020.06.15-19.45.37:662][516]Cmd: ACTOR DELETE
+[2020.06.15-19.45.37:665][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.15-19.45.37:677][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.06.15-19.45.37:681][516]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.06.15-19.45.42:232][788]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.45.42:652][813]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.46.02:973][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gem)
+[2020.06.15-19.46.04:432][115]Cmd: DELETE
+[2020.06.15-19.46.04:432][115]Cmd: ACTOR DELETE
+[2020.06.15-19.46.04:434][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.15-19.46.04:444][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.06.15-19.46.04:449][115]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.06.15-19.46.05:800][193]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/_Connections_assets/meshes/gem.gem
+[2020.06.15-19.46.06:561][193]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-19.46.06:561][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-19.46.14:378][636]LogSlate: Window 'gem' being destroyed
+[2020.06.15-19.46.14:387][636]LogSlate: Window 'gem' being destroyed
+[2020.06.15-19.46.14:452][636]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-19.46.14:452][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-19.46.16:775][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.06.15-19.46.18:555][763]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.15-19.46.18:682][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.06.15-19.46.44:204][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.15-19.46.44:270][974]LogSavePackage: Moving '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/FirstPersonExampleMap_Auto490F123834EC06FFF7F53DC814A376C87.tmp' to '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.06.15-19.46.44:274][974]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2020.06.15-19.46.44:274][974]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2020.06.15-19.47.50:467][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game_jam\homeJam_AGAIN\gem.fbx)
+[2020.06.15-19.47.50:479][281]LogFbx: Loading FBX Scene from E:\Game_jam\homeJam_AGAIN\gem.fbx
+[2020.06.15-19.47.50:485][281]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.15-19.47.55:124][281]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.15-19.47.55:165][281]LogStaticMesh: Building static mesh gem...
+[2020.06.15-19.47.55:167][281]LogStaticMesh: Built static mesh [0.00s] /Game/_Connections_assets/meshes/gem.gem
+[2020.06.15-19.47.55:175][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.15-19.47.57:700][427]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.47.57:707][427]LogSlate: Window 'Message Log' being destroyed
+[2020.06.15-19.50.54:685][428]LogSlate: Window 'Source Control Login' being destroyed
+[2020.06.15-19.52.43:895][261]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.52.44:094][272]LogActorFactory: Actor Factory created gem
+[2020.06.15-19.52.59:482][187]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/_Connections_assets/meshes/gem.gem
+[2020.06.15-19.52.59:721][187]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-19.52.59:721][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-19.54.01:447][850]LogSlate: Window 'gem' being destroyed
+[2020.06.15-19.54.01:455][850]LogSlate: Window 'gem' being destroyed
+[2020.06.15-19.54.01:457][850]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-19.54.01:457][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-19.54.42:076][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.06.15-19.54.44:601][254]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.15-19.55.46:432][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.06.15-19.55.52:469][384]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.15-19.55.54:633][384]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2020.06.15-19.55.56:501][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.06.15-19.55.56:516][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.06.15-19.55.56:527][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.06.15-19.55.56:976][384]SourceControl: rm 'Connections_UE/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2020.06.15-19.55.58:401][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gem)
+[2020.06.15-19.55.58:784][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.15-19.55.59:280][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gem)
+[2020.06.15-19.56.00:080][551]Cmd: DELETE
+[2020.06.15-19.56.00:080][551]Cmd: ACTOR DELETE
+[2020.06.15-19.56.00:084][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.15-19.56.00:094][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.06.15-19.56.00:099][551]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository
+[2020.06.15-19.56.08:532][ 17]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:747][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.08:748][ 17]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2020.06.15-19.56.19:891][ 17]LogSlate: Window 'Submit Files' being destroyed
+[2020.06.15-19.56.20:672][ 17]LogSourceControl: commit successful: [master 8391ce8] AH bug fix AH
+[2020.06.15-19.56.20:826][ 17]SourceControl: [master 8391ce8] AH bug fix AH
+[2020.06.15-19.56.20:826][ 17]SourceControl:  2 files changed, 2 insertions(+), 1 deletion(-)
+[2020.06.15-19.56.20:826][ 17]SourceControl:  delete mode 100644 Connections_UE/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2020.06.15-19.56.20:836][ 17]SourceControl: Commited [master 8391ce8] AH bug fix AH.
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2020.06.15-19.56.27:073][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2020.06.15-19.56.27:074][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2020.06.15-19.56.27:074][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2020.06.15-19.56.27:074][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2020.06.15-19.56.27:074][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository
+[2020.06.15-19.56.27:074][348]SourceControl: fatal: E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files (x86)/UE_4.25/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:286][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2020.06.15-19.56.27:289][348]EditorErrors: Warning: No assets to check in!
