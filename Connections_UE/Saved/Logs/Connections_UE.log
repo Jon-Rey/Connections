@@ -1358,3 +1358,16 @@ Please see Output Log for details.
 [2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo', but the path contains illegal characters '.'
 [2020.06.15-19.56.27:287][348]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
 [2020.06.15-19.56.27:289][348]EditorErrors: Warning: No assets to check in!
+[2020.06.15-19.56.53:824][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.06.15-19.56.53:880][504]LogSavePackage: Moving '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/FirstPersonExampleMap_Auto54011D9FA44EDDACF37364DB06A566DE2.tmp' to '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.06.15-19.56.53:887][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.080
+[2020.06.15-19.56.53:887][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2020.06.15-19.56.53:888][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.06.15-19.56.53:902][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.06.15-19.56.53:902][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.06.15-19.56.54:259][504]LogSavePackage: Moving '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/FirstPersonCharacter_Auto5B9F873E04925A5CB09D7798DA784D33B.tmp' to '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2020.06.15-19.56.54:260][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Connections_assets/meshes/gem] ([1] browsable assets)...
+[2020.06.15-19.56.54:270][504]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Connections_assets/meshes/gem.gem]
+[2020.06.15-19.56.54:270][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Connections_assets/meshes/gem]
+[2020.06.15-19.56.54:293][504]LogSavePackage: Moving '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/gem_Auto59986F61E407BC59589CEC99092E64CE0.tmp' to '../../../../../../Game_jam/homeJam_AGAIN/Connections/Connections_UE/Saved/Autosaves/Game/_Connections_assets/meshes/gem_Auto5.uasset'
+[2020.06.15-19.56.54:294][504]LogFileHelpers: Auto-saving content packages took 0.407
